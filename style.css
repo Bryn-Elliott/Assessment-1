@@ -1,0 +1,46 @@
+body {
+  margin: 0px;
+  background-color: #4f2222;
+  color: #f8f8ff;
+}
+
+figure {
+  margin: 0;
+}
+
+nav{
+  width : 100vw;
+  background-color: #222;
+}
+
+li {
+  list-style-type: none;
+  margin; 0;
+  font-size: 3vh;
+}
+
+a {
+  text-decoration: none;
+  display: block;
+  padding: 8px;
+  color: #f8f8ff
+}
+
+a.active {
+  background-color: #6f2222
+}
+
+a:hover {
+    background-color: #333;
+}
+
+ul {
+  display: flex;
+  margin: 0;
+  padding: 8px;
+}
+
+p {
+    margin: 25px;
+    font-size: 22px
+}
