@@ -1,3 +1,7 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 body {
   margin: 0px;
   background-color: #4f2222;
@@ -32,6 +36,11 @@ a.active {
 
 a:hover {
     background-color: #333;
+    color: #f8f8ff
+}
+
+a.active:hover {
+  background-color: #4f1010
 }
 
 nav ul {
@@ -39,6 +48,7 @@ nav ul {
   margin: 0;
   padding: 8px;
   position: sticky;
+/*   An attempt to make a sticky nav bar */
   top: 0;
 }
 

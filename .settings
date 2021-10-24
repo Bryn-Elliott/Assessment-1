@@ -26,7 +26,7 @@
 ; enter your terminal preferences here...
 
 [preview]
-index_file = Index.html
+index_file = index.html
 ; enter your preview preferences here...
 
 [emmet]
