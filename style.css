@@ -30,6 +30,10 @@ a {
   color: #f8f8ff
 }
 
+a.Link {
+    background-color: #4f1010;
+}
+
 a.active {
   background-color: #6f2222
 }
