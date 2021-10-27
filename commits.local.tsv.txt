@@ -1,0 +1,8 @@
+581dca0	BRYN ELLIOTT	Wed Oct 27 13:36:59 2021	Website v1.5 successful implementation of Bootstrap, ready for review
+839a2d2	BRYN ELLIOTT	Tue Oct 26 11:19:18 2021	Website v1.4 attempt at dropdown menu
+088b697	BRYN ELLIOTT	Sun Oct 24 17:02:18 2021	Website v1.2.1 bug fixes
+f69eca1	BRYN ELLIOTT	Sun Oct 24 16:59:27 2021	Website v1.2 first Bootstrap integegration
+8a84eab	BRYN ELLIOTT	Fri Oct 22 17:04:30 2021	Website v1.2  Added information and Images
+fe54431	BRYN ELLIOTT	Wed Oct 20 15:51:20 2021	Website v1.1. Minor changes.
+597c78b	Bryn	Wed Oct 20 15:30:01 2021	Update README.md
+c58c90b	BRYN ELLIOTT	Wed Oct 20 15:18:38 2021	Initial Commit. Website v1.0
